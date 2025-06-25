@@ -26,7 +26,7 @@ This is a Python program simulating waves. You can interactively adjust amplitud
 ```bash
 pip install numpy matplotlib
 python wave.py
-
+```
 ## 🔔 提醒 / Note
 
 - 推薦在終端機或命令提示字元執行，不建議直接用部分 IDE 的「Run」功能，避免動畫視窗無法正常顯示
